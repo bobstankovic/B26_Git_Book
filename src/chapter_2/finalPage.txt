@@ -1,2 +1,7 @@
 so fair we learned git flow for
 somit --> push
+
+and
+
+remote -> local
+pull/ update
